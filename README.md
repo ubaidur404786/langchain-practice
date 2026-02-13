@@ -1,1 +1,1 @@
-# langchain-practice
+# Generative AI using langchain
